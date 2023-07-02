@@ -1,6 +1,6 @@
-# 💻 Kezara Lakshan
+# 🦠 Senuri Kularathna
 
-**` 🧑🏻‍💻 Hello I'm Kezara Lakshan Welcome `**
+**`Welcome to my GitHub profile! I'm Senuri, a biomedical enthusiast passionate about advancing healthcare through technology. Here you'll find my contributions to the intersection of biology and code.  `**
 
 
 
@@ -34,36 +34,33 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=radical&hide=commits,prs,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=c,html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🧰 Backend Developer
-<p>
-      I'm a Backend Developer with experience building Python, Flutter, Java, and PHP applications. Here are some of the technologies I'm proficient in:
-    </p>
-    <ul>
-      <li>
-        <strong>Python:</strong> Proficient in Pandas, Flask, and Scikit-learn.
-        Built a sentiment analysis model using Python and deployed it on a web app and machine learning.
-      </li>
-      <li>
-        <strong>Flutter:</strong> Experienced in building mobile apps with Flutter. Created a social networking app that features real-time updates, push notifications, and user profiles.
-      </li>
-      <li>
-        <strong>Java:</strong> Skilled in Spring, Hibernate, and JUnit. Developed a RESTful web service using Spring Boot that integrates with a payment gateway.
-      </li>
-      <li>
-        <strong>PHP:</strong> Proficient in Laravel and CodeIgniter. Built an e-commerce website with a custom CMS and integrated payment and shipping APIs.
-      </li>
-    </ul>
-    <h2>📚 Education</h2>
-    <ul>
-      <li>Bachelor of Information Technology(SIBA Campus[Srilanka])</li>
-     <li>Bachelor of Performing Arts (Honours) Music(University of the Visual and Performing Arts[Srilanka])</li>
-      <li>CertificationsMachine Learning - Python, Keras, SKLearn (NovTech[Srilanka])
-</li>
-    </ul>
-   
-   
+# Senuri's Biomedical GitHub
 
+Welcome to my GitHub profile! I'm Senuri, a biomedical enthusiast passionate about advancing healthcare through technology. Here you'll find my contributions to the intersection of biology and code.
 
+## About Me
+
+I am a biomedical engineer with a strong interest in coding and its applications in healthcare. My goal is to leverage technology to improve patient care, drive innovation, and make a positive impact in the field of biomedicine.
+
+## Projects
+
+- **Project 1**: [Project Name](link-to-project-repo) - Description of the project.
+- **Project 2**: [Project Name](link-to-project-repo) - Description of the project.
+- **Project 3**: [Project Name](link-to-project-repo) - Description of the project.
+
+## Education
+
+- Bachelor of Biomedical Engineering from [University of X](https://www.example.com)
+
+## Collaboration
+
+I believe in the power of collaboration and welcome opportunities to work with like-minded individuals or teams on innovative projects. If you are interested in collaborating or have any suggestions, feel free to reach out to me.
+
+## Connect
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/senuri) and check out my repositories on [GitHub](https://github.com/senuri) to explore my biomedical projects.
+
+Thank you for visiting my GitHub profile! Together, we can revolutionize healthcare with code. 💡🩺🚀
 
 
 
