@@ -67,7 +67,7 @@ Thank you for visiting my GitHub profile! Together, we can revolutionize healthc
 
 <a href='https://web.facebook.com/kehsra/'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href='+94768000534'>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href='https://www.linkedin.com/in/kesara-lakshan/'>![LinkedIn](https://www.linkedin.com/in/senuri-kularathna-775757247/)</a>
+<a href='https://www.linkedin.com/in/kesara-lakshan/'>![LinkedIn](https://www.linkedin.com/feed/?legoTrackingToken=c34ZpnFFkTBxr71PqmgCc2UMfmlOrSdjtOoZsC5gr6litOoZp6Zdr6litOoVejAVejRApnhPpnlNpl9JtmUCjAZ9l4BjjR0Zuk9OpmhOjThBpShFtOpQrClQrCBvsClHpmlPnS9LqBYOtChxs6xzrDlxr3RAinhBpShFtOoMfmVLqnhFsSZgt6lDp6BT9z0Kc3RBsCZzkT9D9zROol1Ipl9OpOoZp6Zdr6lisCsCc3RKrSBQqndLk71RrT9D9zAVejAVfmhBt7dBtn5BkCRRjD1RrT9D9DhItm5CpmgZp4BMtmZOpOpejQBkildfk3RVgD9Bp79L9DhItm5CpmgZp4BQrClJpSlP9DhKpnhKqjRAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64Ce34Sdj4Nfmh9rCZFsT9BtyoVc38Ndj0Scz0Nfmh9tipBdz4RdjAMdjAQcj8Je6cMoiQPoSkQbjkUc34JpmcTpjgUc6cZp4BQu6lQrCZz)</a>
 
 ---
 
