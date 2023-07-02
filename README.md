@@ -67,7 +67,7 @@ Thank you for visiting my GitHub profile! Together, we can revolutionize healthc
 
 <a href='https://web.facebook.com/kehsra/'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href='+94768000534'>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href='https://www.linkedin.com/in/kesara-lakshan/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href='https://www.linkedin.com/in/senuri-kularathna-775757247/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
