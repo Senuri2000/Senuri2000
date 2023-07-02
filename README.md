@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm Senuri, a biomedical enthusiast passionate abo
 
 ## About Me
 
-I am a biomedical engineer with a strong interest in coding and its applications in healthcare. My goal is to leverage technology to improve patient care, drive innovation, and make a positive impact in the field of biomedicine.
+Passionate life science enthusiast merging coding and healthcare for a healthier future. Join me in exploring projects that leverage technology to enhance patient care and drive innovation in biomedicine.
 
 ## Projects
 
@@ -50,8 +50,8 @@ I am a biomedical engineer with a strong interest in coding and its applications
 
 ## Education
 
--Bachelor of Science – Faculty of Natural Sciences from [The Open University of Sri Lanka](https://ou.ac.lk/)
-- Bachelor of Information from [University of SIBA](https://siba.edu.lk/)
+- Bachelor of Science – Faculty of Natural Sciences from [The Open University of Sri Lanka](https://ou.ac.lk/)
+- Bachelor of Information Technology from [SIBA CAMPUS(Sri Lanka international Buddist academy) ](https://siba.edu.lk/)
 
 ## Collaboration
 
