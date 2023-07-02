@@ -9,18 +9,17 @@
 
 
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-plain.svg">
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg">
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg">
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg">
 
      
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" >
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png" />
@@ -29,8 +28,8 @@
 <br>
 
 #
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=radical&hide=commits,prs,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=c,html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Senuri2000&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senuri2000&hide=html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senuri2000&show_icons=true&theme=radical&hide=commits,prs,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=c,html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Senuri's Biomedical GitHub
@@ -57,7 +56,7 @@ I believe in the power of collaboration and welcome opportunities to work with l
 
 ## Connect
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/senuri) and check out my repositories on [GitHub](https://github.com/senuri) to explore my biomedical projects.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/senuri) and check out my repositories on [GitHub](https://github.com/Senuri2000) to explore my biomedical projects.
 
 Thank you for visiting my GitHub profile! Together, we can revolutionize healthcare with code. 💡🩺🚀
 
