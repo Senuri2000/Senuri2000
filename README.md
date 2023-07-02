@@ -50,7 +50,7 @@ I am a biomedical engineer with a strong interest in coding and its applications
 
 ## Education
 
-- Bachelor of Biomedical Engineering from [University of X](https://www.example.com)
+-Bachelor of Science – Faculty of Natural Sciences from [The Open University of Sri Lanka](https://ou.ac.lk/)
 - Bachelor of Information from [University of SIBA](https://siba.edu.lk/)
 
 ## Collaboration
